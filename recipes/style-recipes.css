@@ -1,0 +1,22 @@
+h1 {
+    color:rgb(0, 139, 0);
+    border: 8px dotted rgb(225, 5, 5);
+    text-align: center;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.image-container {
+    display:flex;
+    justify-content: center;
+    width: 100%;
+}
+.button {
+    align: center;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #ca3d00;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
